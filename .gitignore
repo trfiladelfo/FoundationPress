@@ -1,0 +1,6 @@
+*.DS_Store
+Thumbs.db
+.sass-cache/*
+/worpress/assets/css/*
+/bower_modules/*
+/node_modules/*

@@ -1,0 +1,6 @@
+{
+  "name": "wordpress-foundation-compass-template",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
+  }
+}
